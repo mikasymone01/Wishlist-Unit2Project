@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="WishlistBG">
+        <item name="android:background">#C0B7B1</item>
+    </style>
+    <style name="TextNormal">
+        <item name="android:textColor">#433E3F</item>
+    </style>
+    <style name="LinkColor">
+        <item name="android:textColor">#7A7265</item>
+        <item name="android:textColorLink">#7A7265</item>
+    </style>
+
+    <style name="InputColor">
+        <item name="android:textColor">#8E6E53</item>
+        <item name="android:textColorHint">#8E6E53</item>
+    </style>
+
+    <style name="BtnColor">
+        <item name="android:backgroundTint">#C69C72</item>
+    </style>
+
+</resources>
+
