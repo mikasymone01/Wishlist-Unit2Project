@@ -24,19 +24,17 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/8rIGFuG.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ShareX  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
-
-Describe any challenges encountered while building the app.
-
+I had a few issues but I realized it was due to not creating a companion object so that the empty list could be defined. 
 ## License
 
     Copyright [yyyy] [name of copyright owner]
