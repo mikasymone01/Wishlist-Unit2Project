@@ -37,7 +37,7 @@ GIF created with ShareX
 I had a few issues but I realized it was due to not creating a companion object so that the empty list could be defined. 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2023 Mikala Simons
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
